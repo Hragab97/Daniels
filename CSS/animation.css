@@ -1,0 +1,236 @@
+
+.header-content h1::after {
+    content: '';
+    animation: typing 10s ease infinite;
+}
+
+@keyframes typing {
+    0% {
+      content: "";
+    }
+    0.4% {
+      content: "L";
+    }
+    0.8% {
+      content: "La";
+    }
+    1.3% {
+      content: "Lar";
+    }
+    1.7% {
+      content: "Larr";
+    }
+    2.2% {
+      content: "Larry";
+    }
+    2.6% {
+      content: "Larry ";
+    }
+    3.1% {
+      content: "Larry D";
+    }
+    3.55% {
+      content: "Larry Da";
+    }
+    4% {
+      content: "Larry Dan";
+    }
+    4.4% {
+      content: "Larry Dani";
+    }
+    4.8% {
+      content: "Larry Danie";
+    }
+    5.3% {
+      content: "Larry Daniel";
+    }
+    5.7% {
+      content: "Larry Daniels";
+    }
+    6.2% {
+      content: "Larry Daniels ";
+    }
+    6.6% {
+      content: "Larry Daniels |";
+    }
+    26.2% {
+      content: "Larry Daniels |";
+    }
+    26.6% {
+      content: "Larry Daniels ";
+    }
+    27.1% {
+      content: "Larry Daniels";
+    }
+    27.5% {
+      content: "Larry Daniel";
+    }
+    28% {
+      content: "Larry Danie";
+    }
+    28.4% {
+      content: "Larry Dani";
+    }
+    28.88% {
+      content: "Larry Dan";
+    }
+    29.3% {
+      content: "Larry Da";
+    }
+    29.7% {
+      content: "Larry D";
+    }
+    30.2% {
+      content: "Larry ";
+    }
+    30.6% {
+      content: "Larry";
+    }
+    31.1% {
+      content: "Larr";
+    }
+    31.5% {
+      content: "Lar";
+    }
+    32% {
+      content: "La";
+    }
+    32.4% {
+      content: "L";
+    }
+    33.3% {
+      content: "";
+    }
+    33.93% {
+      content: "D";
+    }
+    34.5% {
+      content: "De";
+    }
+    35.1% {
+      content: "Dev";
+    }
+    35.7% {
+      content: "Deve";
+    }
+    36.3% {
+      content: "Devel";
+    }
+    36.8% {
+      content: "Develo";
+    }
+    37.5% {
+      content: "Develop";
+    }
+    38.1% {
+      content: "Develope";
+    }
+    38.7% {
+      content: "Developer";
+    }
+    39.3% {
+      content: "Developer ";
+    }
+    40% {
+      content: "Developer |";
+    }
+    59.3% {
+      content: "Developer |";
+    }
+    60.% {
+      content: "Developer ";
+    }
+    60.6% {
+      content: "Developer";
+    }
+    61.2% {
+      content: "Develope";
+    }
+    61.81818181818182% {
+      content: "Develop";
+    }
+    62.4% {
+      content: "Develo";
+    }
+    63.03% {
+      content: "Devel";
+    }
+    63.6% {
+      content: "Deve";
+    }
+    64.1% {
+      content: "Dev";
+    }
+    64.8% {
+      content: "De";
+    }
+    65.4% {
+      content: "D";
+    }
+    66.6% {
+      content: "";
+    }
+    67.3% {
+      content: "D";
+    }
+    68% {
+      content: "De";
+    }
+    68.6% {
+      content: "Des";
+    }
+    69.3% {
+      content: "Desi";
+    }
+    70% {
+      content: "Desig";
+    }
+    70.6% {
+      content: "Design";
+    }
+    71.3% {
+      content: "Designe";
+    }
+    72% {
+      content: "Designer";
+    }
+    72.6% {
+      content: "Designer ";
+    }
+    73.3% {
+      content: "Designer |";
+    }
+    92.6% {
+      content: "Designer |";
+    }
+    93.3% {
+      content: "Designer ";
+    }
+    94% {
+      content: "Designer";
+    }
+    94.6% {
+      content: "Designe";
+    }
+    95.3% {
+      content: "Design";
+    }
+    96% {
+      content: "Desig";
+    }
+    96.6% {
+      content: "Desi";
+    }
+    97.3% {
+      content: "Des";
+    }
+    98% {
+      content: "De";
+    }
+    98.6% {
+      content: "D";
+    }
+    100% {
+      content: "";
+    }
+  }
